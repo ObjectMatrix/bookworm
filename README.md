@@ -1,6 +1,8 @@
 # 🐛 Bookworm.🐛   
 Bookworm is a general name for any insect that is said to bore through books. The damage to books that is commonly attributed to "bookworms" is, in truth, not caused by any species of worm. (Wikipedia)
-![worm reader](images/worm.png)
+
+![worm reader](images/worm.png) 
+
 ## install python
  - https://docs.python-guide.org/starting/install3/osx/
 
