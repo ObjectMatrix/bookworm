@@ -1,7 +1,5 @@
 # bookworm.  
-
-[link to worm!](https://github.com/ObjectMatrix/bookworm/blob/main/images/worm.png)
-
+![worm reader](img/images/worm.png)
 ## install python
  - https://docs.python-guide.org/starting/install3/osx/
 
