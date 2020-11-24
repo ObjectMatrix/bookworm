@@ -11,4 +11,4 @@
  - pip install PyPDF2
 
 ## Start Program from CLI
- - python3 
+ - python3 audio-read.py
