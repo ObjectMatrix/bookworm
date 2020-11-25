@@ -1,7 +1,7 @@
 import pyttsx3
 import PyPDF2
 
-name = pdfFileName = 'god.pdf'
+name = pdfFileName = './books/god.pdf'
 book = open(pdfFileName, 'rb')
 reader = PyPDF2.PdfFileReader(book)
 totalPages = reader.numPages
